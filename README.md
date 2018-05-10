@@ -2,13 +2,18 @@
 Репозиторий-основа для материалов по дисциплине «Алгоритмы и анализ сложности»
 
  Список заданий:
- ```
-Автоматное
-Перевод числа
-Алгоритм половинного деления
-Рекурсия 
-Анализ алгоритма сортировки
-```
+
+Автоматное:
+https://docs.google.com/presentation/d/1uy958sN0dCp7pZLar2_dTB0m0XL_tuZlsJYV7S3hA4A/edit
+Перевод числа:
+https://docs.google.com/presentation/d/1F7ZKhbY6FvElgstdbymU8KSwceY9uNt2G_8DHHs5BF0/edit
+Алгоритм половинного деления:
+https://docs.google.com/presentation/d/1OMKvLNLduRBXwASf-ix7cpYmG-BxLMUhEEbfAoe0JF4/edit
+Рекурсия:
+https://docs.google.com/presentation/d/1ZlBDrEjV-T2J9xatCWoaSSMGDEXxrQWy00TwtixgMjU/edit
+Анализ алгоритма сортировки:
+https://docs.google.com/presentation/d/1ycfp91Wj8z9VZQZPMqdRP6O7x8j6ikdUww2IynRBsbA/edit#slide=id.p1
+
 
 Как оформлять?
 
